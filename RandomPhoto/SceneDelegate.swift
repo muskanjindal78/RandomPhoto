@@ -1,10 +1,3 @@
-//
-//  SceneDelegate.swift
-//  RandomPhoto
-//
-//  Created by Muskan Jindal on 13/08/22.
-//
-
 import UIKit
 
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
